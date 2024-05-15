@@ -1,0 +1,6 @@
+#ignore mad folder in the root direcotry 
+
+mad/
+.env
+__pycache__/
+all_routes/__pycache__/
